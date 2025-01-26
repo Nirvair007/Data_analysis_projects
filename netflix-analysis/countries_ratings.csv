@@ -1,0 +1,118 @@
+,country,rating,count
+0,United States,66 min,1
+1,United States,74 min,1
+2,United States,84 min,1
+3,United States,G,39
+4,United States,NC-17,1
+5,United States,NR,42
+6,United States,PG,243
+7,United States,PG-13,433
+8,United States,R,660
+9,United States,TV-14,480
+10,United States,TV-G,86
+11,United States,TV-MA,1093
+12,United States,TV-PG,291
+13,United States,TV-Y,123
+14,United States,TV-Y7,146
+15,United States,TV-Y7-FV,2
+16,United States,UR,1
+17,India,NR,7
+18,India,PG,7
+19,India,PG-13,11
+20,India,R,5
+21,India,TV-14,571
+22,India,TV-G,10
+23,India,TV-MA,266
+24,India,TV-PG,144
+25,India,TV-Y,6
+26,India,TV-Y7,17
+27,India,TV-Y7-FV,1
+28,United Kingdom,G,4
+29,United Kingdom,NR,12
+30,United Kingdom,PG,35
+31,United Kingdom,PG-13,84
+32,United Kingdom,R,145
+33,United Kingdom,TV-14,100
+34,United Kingdom,TV-G,24
+35,United Kingdom,TV-MA,243
+36,United Kingdom,TV-PG,94
+37,United Kingdom,TV-Y,33
+38,United Kingdom,TV-Y7,12
+39,United Kingdom,UR,1
+40,Canada,G,2
+41,Canada,NC-17,1
+42,Canada,NR,5
+43,Canada,PG,33
+44,Canada,PG-13,32
+45,Canada,R,79
+46,Canada,TV-14,45
+47,Canada,TV-G,16
+48,Canada,TV-MA,103
+49,Canada,TV-PG,37
+50,Canada,TV-Y,45
+51,Canada,TV-Y7,34
+52,France,G,2
+53,France,NC-17,1
+54,France,NR,4
+55,France,PG,21
+56,France,PG-13,35
+57,France,R,57
+58,France,TV-14,47
+59,France,TV-G,4
+60,France,TV-MA,163
+61,France,TV-PG,12
+62,France,TV-Y,20
+63,France,TV-Y7,21
+64,France,UR,2
+65,Japan,G,1
+66,Japan,PG,11
+67,Japan,PG-13,9
+68,Japan,R,9
+69,Japan,TV-14,97
+70,Japan,TV-G,2
+71,Japan,TV-MA,100
+72,Japan,TV-PG,50
+73,Japan,TV-Y,3
+74,Japan,TV-Y7,31
+75,Spain,G,3
+76,Spain,NC-17,1
+77,Spain,PG,4
+78,Spain,PG-13,5
+79,Spain,R,13
+80,Spain,TV-14,18
+81,Spain,TV-G,1
+82,Spain,TV-MA,169
+83,Spain,TV-PG,8
+84,Spain,TV-Y,5
+85,Spain,TV-Y7,1
+86,South Korea,G,1
+87,South Korea,NR,4
+88,South Korea,PG,2
+89,South Korea,PG-13,1
+90,South Korea,R,2
+91,South Korea,TV-14,85
+92,South Korea,TV-G,1
+93,South Korea,TV-MA,92
+94,South Korea,TV-PG,17
+95,South Korea,TV-Y,7
+96,South Korea,TV-Y7,14
+97,Germany,G,1
+98,Germany,NR,2
+99,Germany,PG,8
+100,Germany,PG-13,31
+101,Germany,R,43
+102,Germany,TV-14,27
+103,Germany,TV-G,9
+104,Germany,TV-MA,78
+105,Germany,TV-PG,17
+106,Germany,TV-Y,3
+107,Germany,TV-Y7,6
+108,Mexico,NR,4
+109,Mexico,PG,2
+110,Mexico,PG-13,4
+111,Mexico,R,14
+112,Mexico,TV-14,22
+113,Mexico,TV-G,3
+114,Mexico,TV-MA,102
+115,Mexico,TV-PG,12
+116,Mexico,TV-Y7,6
